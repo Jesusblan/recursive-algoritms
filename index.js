@@ -16,6 +16,6 @@ function fib(n){
     return arr[n] = fib(n - 1) + fib(n - 2);
 };
 
-console.log(fib(40))
+console.log(fib(9))
 console.log(arr)
 
